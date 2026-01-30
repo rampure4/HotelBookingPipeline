@@ -20,6 +20,7 @@ Data Source → Raw Data → Cleaned Data → Business Ready → Dashboard
 - ELT-based data processing
 - Snowsight dashboards
 
-## Purpose
+## Dashboard 
 
-Enable **reliable, scalable, and self-service analytics** for hotel performance and business decision-making.
+## Purpose
+Demonstrate practical data analysis skills using a real-world analytics pipeline.
