@@ -22,6 +22,7 @@ Data Source → Raw Data → Cleaned Data → Business Ready → Dashboard
 
 ## Dashboard 
 <img width="1858" height="881" alt="Screenshot 2026-01-30 at 3 51 39 PM" src="https://github.com/user-attachments/assets/0c942e3b-8df0-4b32-a84e-c98d76b4c69e" />
+
 ## Purpose
 Demonstrate practical data analysis skills using a real-world analytics pipeline.
 
